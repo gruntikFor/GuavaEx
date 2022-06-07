@@ -1,4 +1,4 @@
-package com.gruntik.prepare;
+package com.gruntik.guavaex;
 
 import com.google.common.base.Objects;
 

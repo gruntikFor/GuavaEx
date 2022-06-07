@@ -1,6 +1,4 @@
-package com.gruntik.prepare;
-
-import java.util.Objects;
+package com.gruntik.guavaex;
 
 import static com.google.common.base.Preconditions.*;
 
